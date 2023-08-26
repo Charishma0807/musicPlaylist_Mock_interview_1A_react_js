@@ -1,4 +1,4 @@
-import MusicPlaylist from './components/MusicPlaylist'
+import MusicPlayList from './components/MusicPlayList'
 
 import './App.css'
 
@@ -87,6 +87,6 @@ import './App.css'
 
 // Replace your code here
 
-const App = () => <MusicPlaylist />
+const App = () => <MusicPlayList />
 
 export default App

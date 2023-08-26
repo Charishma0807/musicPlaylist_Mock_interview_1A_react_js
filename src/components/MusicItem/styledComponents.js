@@ -13,7 +13,7 @@ export const TrackInfoContainer = styled.div`
   width: 500px;
 `
 
-export const MusicTrackImage = styled.div`
+export const MusicTrackImage = styled.img`
   height: 90px;
   width: 140px;
   margin-right: 20px;

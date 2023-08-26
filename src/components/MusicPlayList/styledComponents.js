@@ -22,7 +22,7 @@ export const ArtistName = styled.h1`
   font-weight: bold;
 `
 
-export const ArtistInfo = styled.div`
+export const ArtistInfo = styled.p`
   font-family: 'Roboto';
   color: #ffffff;
   font-size: 32px;

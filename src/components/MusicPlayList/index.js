@@ -97,7 +97,7 @@ const initialTracksList = [
   },
 ]
 
-class MusicPlaylist extends Component {
+class MusicPlayList extends Component {
   state = {
     searchInput: '',
     playList: initialTracksList,
@@ -161,4 +161,4 @@ class MusicPlaylist extends Component {
   }
 }
 
-export default MusicPlaylist
+export default MusicPlayList
